@@ -107,4 +107,4 @@ else
 
 echo all distdir install installdirs clean distclean uninstall check:
 
-endif
+endif # <<arh>>
